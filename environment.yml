@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+  - defaults
+  - damianavila82
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - xarray
+  - sympy
+  - ffmpeg
+  - jupyter
+  - climlab
+  - version_information
+  - rise
